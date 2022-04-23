@@ -1,0 +1,25 @@
+Win95 Dark for IceWM
+--------------------
+
+Dark variant of the Win95 theme for IceWM. 
+This theme is, in general, just to be a good looking, basic dark theme.
+
+# Installation
+
+Clone the repo into your themes folder.
+```bash
+mkdir -p $HOME/.icewm/themes
+git clone https://github.com/Brottweiler/Win95-Dark.git $HOME/.icewm/themes
+```
+Run `git pull` to get new updates.
+
+## Download repo
+
+Press the green **Clone** button then **Download ZIP**. Extract it and place the `Win95-Dark-master` folder into `~/.icewm/themes`.
+
+# References
+
+- https://bc-programming.com/blogs/2019/04/the-failures-of-windows-10-dark-mode/ (https://archive.ph/KAHEU)
+	- https://archive.ph/NmqGr
+	- https://archive.ph/BAqus)
+- https://i.imgur.com/jVM9dUA.png (https://archive.ph/wP5L4)
