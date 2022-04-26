@@ -51,4 +51,4 @@ ColorScrollBarSlider="rgb:3F/3F/3F"
 ColorToolTip="rgb:40/40/40"
 ColorToolTipText="rgb:FF/FF/FF"
 
-# vim:ft=cfg
+# vim:ft=dosini
