@@ -19,7 +19,5 @@ Press the green **Clone** button then **Download ZIP**. Extract it and place the
 
 # References
 
-- https://bc-programming.com/blogs/2019/04/the-failures-of-windows-10-dark-mode/ (https://archive.ph/KAHEU)
-	- https://archive.ph/NmqGr
-	- https://archive.ph/BAqus)
-- https://i.imgur.com/jVM9dUA.png (https://archive.ph/wP5L4)
+- [The failures of Windows 10 “Dark Mode”](https://bc-programming.com/blogs/2019/04/the-failures-of-windows-10-dark-mode/) (Archive: [1](https://archive.ph/KAHEU), [2](https://archive.ph/NmqGr), [3](https://archive.ph/BAqus))
+- [jVM9dUA.png](https://i.imgur.com/jVM9dUA.png) ([Archive](https://archive.ph/wP5L4))
