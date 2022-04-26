@@ -48,7 +48,7 @@ ColorScrollBar="rgb:9F/9F/9F"
 ColorScrollBarButton="rgb:3F/3F/3F"
 ColorScrollBarButtonArrow="rgb:FF/FF/FF"
 ColorScrollBarSlider="rgb:3F/3F/3F"
-ColorToolTip="rgb:40/40/40"
+ColorToolTip="rgb:00/40/40"
 ColorToolTipText="rgb:FF/FF/FF"
 
 # vim:ft=dosini
