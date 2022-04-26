@@ -4,6 +4,10 @@ Win95 Dark for IceWM
 Dark variant of the Win95 theme for IceWM. 
 This theme is, in general, just to be a good looking, basic dark theme.
 
+# Screenshot
+
+![](screenshot.png)
+
 # Installation
 
 Clone the repo into your themes folder.
