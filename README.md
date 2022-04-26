@@ -23,5 +23,5 @@ Press the green **Code** button then **Download ZIP**. Extract it and place the 
 
 # References
 
-- [The failures of Windows 10 “Dark Mode”](https://bc-programming.com/blogs/2019/04/the-failures-of-windows-10-dark-mode/) (Archive: [1](https://archive.ph/KAHEU), [2](https://archive.ph/NmqGr), [3](https://archive.ph/BAqus))
+- [The failures of Windows 10 “Dark Mode”](https://bc-programming.com/blogs/2019/04/the-failures-of-windows-10-dark-mode/) ([Archive](https://archive.ph/KAHEU), [Windows_95.png](https://archive.ph/NmqGr), [xpClassic_dark](https://archive.ph/BAqus))
 - [jVM9dUA.png](https://i.imgur.com/jVM9dUA.png) ([Archive](https://archive.ph/wP5L4))
