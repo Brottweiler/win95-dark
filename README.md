@@ -19,7 +19,7 @@ Run `git pull` to get new updates.
 
 ## Download repo
 
-Press the green **Clone** button then **Download ZIP**. Extract it and place the `Win95-Dark-master` folder into `~/.icewm/themes`.
+Press the green **Code** button then **Download ZIP**. Extract it and place the `Win95-Dark-master` folder into `~/.icewm/themes`.
 
 # References
 
