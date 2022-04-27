@@ -3,8 +3,8 @@ ThemeAuthor="Christoffer Tibell"
 Look=win95
 TitleButtonsRight="x mi"
 
-BorderSizeX=2
-BorderSizeY=2
+BorderSizeX=3
+BorderSizeY=3
 
 ColorActiveBorder="rgb:3F/3F/3F"
 ColorActiveButton="rgb:9F/9F/9F"
