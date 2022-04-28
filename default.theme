@@ -1,7 +1,8 @@
 ThemeDescription="Basic dark theme based on win95"
 ThemeAuthor="Christoffer Tibell"
 Look=win95
-TitleButtonsRight="xmi"
+TitleButtonsRight="xmir"
+TitleButtonsSupported="xmirs"
 
 BorderSizeX=3
 BorderSizeY=3
