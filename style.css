@@ -1,3 +1,7 @@
+main {
+	max-width: 70ch;
+	margin: auto;
+}
 @media (prefers-color-scheme: dark) {
 	body {
 		background: Black;
