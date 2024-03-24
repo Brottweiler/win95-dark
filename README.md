@@ -30,3 +30,4 @@ Press the green **Code** button then **Download ZIP**. Extract it and place the 
 	- [Windows_95.png](https://archive.ph/NmqGr)
 	- [xpClassic_dark.png](https://archive.ph/BAqus)
 - [jVM9dUA.png](https://i.imgur.com/jVM9dUA.png) ([Archive](https://archive.ph/wP5L4))
+- [ASUS_A7N8X.png](https://desu-usergeneratedcontent.xyz/g/image/1710/35/1710359192531.png)
