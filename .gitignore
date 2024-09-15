@@ -1,2 +1,5 @@
 # nano backup files
 *~
+
+# GIMP project files
+*.xcf
