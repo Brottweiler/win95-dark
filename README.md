@@ -10,6 +10,13 @@ This theme is, in general, just to be a good looking, basic dark theme.
 
 # Installation
 
+# Download release
+
+Go to [releases](https://github.com/Brottweiler/win95-dark/releases) and download the latest release.
+Extract into `~/.icewm/themes` and select the theme in **Start → Settings → Themes → win95-dark**.
+
+# Clone repo
+
 Clone the repo into your themes folder.
 ```bash
 mkdir -p $HOME/.icewm/themes
